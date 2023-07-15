@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "b39_bruteforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/core/mnemoChecker.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.6.3"
+  },
+  "devDependencies": {
+    "prisma": "^5.0.0"
+  }
+}
