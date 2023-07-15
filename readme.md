@@ -33,12 +33,11 @@ model Wallet {
   derivation  String
 }
 ```
-
-view [Data Model doc]('https://www.prisma.io/docs/concepts/components/prisma-schema/data-model')
+Data Model doc: https://www.prisma.io/docs/concepts/components/prisma-schema/data-model
 
 ![alt text](https://i.ibb.co/FYdVdcY/default-db.png)
 
 
 #### Ressources
-[BIP39 Wordlists]('https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md')
-[Derivation Paths Explained]('https://support.bifrostwallet.com/en/articles/5588263-derivation-paths-explained')
+  - https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md
+  - https://support.bifrostwallet.com/en/articles/5588263-derivation-paths-explained
