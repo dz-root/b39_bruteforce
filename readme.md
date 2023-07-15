@@ -1,8 +1,7 @@
 ## EVM - Guessing BIP39 seed phrase
-
-1- Install dependencies (ether.js, prisma)
-2- Init database. *([read more]('https://www.prisma.io/docs') about prisma orm)*
-3- Run it! ✨
+  - Install dependencies (ether.js, prisma)
+  - Init database. *([read more]('https://www.prisma.io/docs') about prisma orm)*
+  - Run it! ✨
  ```sh
  npm i
  ```
@@ -34,9 +33,10 @@ model Wallet {
   derivation  String
 }
 ```
+
 view [Data Model doc]('https://www.prisma.io/docs/concepts/components/prisma-schema/data-model')
 
-![alt text](https://i.ibb.co/FYdVdcY/Sans-titre.png)
+![alt text](https://i.ibb.co/FYdVdcY/default-db.png)
 
 
 #### Ressources
